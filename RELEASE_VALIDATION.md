@@ -16,15 +16,11 @@
   ~
   -->
 
-## Contributing to StreamPipes
+## Release Validation
 
-*Before opening a pull request*, review the [Get Involved](https://streampipes.apache.org/getinvolved.html) page.
-It lists information that is required for contributing to StreamPipes.
+An Apache StreamPipes (incubating) release consists of a single source release starting from version 0.69.0:
 
-When you contribute code, you affirm that the contribution is your original work and that you
-license the work to the project under the project's open source license. Whether or not you
-state this explicitly, by submitting any copyrighted material via pull request, email, or
-other means you agree to license the material under the project's open source license and
-warrant that you have the legal authority to do so.
+* incubator-streampipes
 
----
+To validate and test a release candidate, please visit our validation guide: 
+[https://cwiki.apache.org/confluence/display/STREAMPIPES/Validating+a+release](https://cwiki.apache.org/confluence/display/STREAMPIPES/Validating+a+release)
